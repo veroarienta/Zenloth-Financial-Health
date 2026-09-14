@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{console.log('Zenloth Financial Health demo loaded successfully');});
